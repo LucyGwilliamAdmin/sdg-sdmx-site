@@ -21,6 +21,8 @@ metadata_edit_url: http://prose.io/#LucyGwilliamAdmin/sdg-sdmx-data/edit/develop
 languages:
   - en
   
+graph_title_from_series: true
+
 #
 # That's enough for the Quick Start! The remaining settings can be configured later.
 
